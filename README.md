@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Hi, I am Oscar a backend and mobile developer. For me, the world of programming is a way to grow every day.</p>
 
 ###
 
